@@ -1,4 +1,4 @@
-# EasyAttendanceWebApp
+# RollCall Rooms
 
 A **secure, fast, and proxy-proof attendance management system** built as a full-stack web application.
 It leverages **dynamic QR codes** to ensure that attendance can only be marked in real time by physically present participants.
