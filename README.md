@@ -74,4 +74,3 @@ Result:
 Licensed under the **MIT License** with additional clauses to protect source usage and redistribution specifics (see `LICENSE` file for full terms).
 
 
-Do you want me to make that diagram?
